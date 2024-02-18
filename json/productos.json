@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "title": "Triple Hamburguesa con Queso",
+        "price": 4300.00,
+        "img_name": "thq",
+        "short_description": "Tres medallones de carne 100% vacuna, queso derretido, mostaza, kétchup y cebolla triturada, es algo que nunca puede fallar.",
+        "long_description": "",
+        "type":"hamburguesa"
+    },
+    {
+        "id":2,
+        "title": "Big Mac",
+        "price": 4750.20,
+        "img_name": "mb",
+        "short_description": "Quizás sean las dos hamburguesas de carne 100% vacuna con esa salsa especial y queso derretido, el toque de cebolla y la frescura de la lechuga o el crocante del pepino, lo que la hace la hamburguesa más famosa del mundo. Un sabor único.",
+        "long_description": "",
+        "type":"hamburguesa"
+    },
+    {
+        "id":3,
+        "title": "Doble Cuarto de Libra con Queso",
+        "price": 5100.00,
+        "img_name": "dclq",
+        "short_description": "Imaginá la sensación del clásico Cuarto de Libra. Imaginalo con un medallón de deliciosa carne 100% vacuna, queso cheddar, cebolla, kétchup y mostaza ¿Listo? Ahora duplicá esa sensación. Ya tenés el Doble Cuarto en la cabeza.",
+        "long_description": "",
+        "type":"hamburguesa"
+    },
+    {
+        "id":4,
+        "title": "Grand Tasty Doble",
+        "price": 4800.00,
+        "img_name": "gtd",
+        "short_description": "Inigualable pan con semillas de sésamo, dos medallones de carne 100% vacuna, dos fetas de nuestro exclusivo Queso Cheddar, cebolla, lechuga y tomate frescos. Sumado a estos ingredientes la única e inigualable Salsa Tasty, un exclusivo sabor McDonald’s.",
+        "long_description": "",
+        "type":"hamburguesa"
+    },
+    {
+        "id":5,
+        "title": "Grand Tasty Triple",
+        "price": 4450.00,
+        "img_name": "gtt",
+        "short_description": "Inigualable pan con semillas de sésamo, tres medallones de carne 100% vacuna, tres fetas de nuestro exclusivo Queso Cheddar, cebolla, lechuga y tomate frescos. Sumado a estos ingredientes la única e inigualable Salsa Tasty, un exclusivo sabor McDonald’s.",
+        "long_description": "",
+        "type":"hamburguesa"
+    },
+    {
+        "id":6,
+        "title": "Papas con cheddar y bacon",
+        "price": 2250.00,
+        "img_name": "pcb",
+        "short_description": "Calientes, crujientes y deliciosas, una nueva variedad llega para quedarse: Papas Fritas con Cheddar fundido y trocitos de bacon.",
+        "long_description": "",
+        "type":"papas"
+    },
+    {
+        "id":7,
+        "title": "Papas con cheddar",
+        "price":  3100.00,
+        "img_name": "pc",
+        "short_description": "Calientes, crujientes y deliciosas, una nueva variedad llega para quedarse: Papas Fritas con Cheddar fundido.",
+        "long_description": "",
+        "type":"papas"
+    },
+    {
+        "id":8,
+        "title": "Papas con tasty y bacon",
+        "price":  3999.00,
+        "img_name": "ptb",
+        "short_description": "Calientes, crujientes y deliciosas, una nueva variedad llega para quedarse: Papas Fritas con nuestra exclusiva salsa Tasty y trocitos de bacon.",
+        "long_description": "",
+        "type":"papas"
+    }
+  ]
